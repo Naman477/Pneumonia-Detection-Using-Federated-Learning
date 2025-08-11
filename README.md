@@ -509,7 +509,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 **Authors**
 
-- **Naman Agarwal** - [@Naman477](https://github.com/Naman477)
+- **Naman Chugh** - [@Naman477](https://github.com/Naman477)
   - 🎓 Project Lead & AI Engineer
   - 💼 Specialization: Federated Learning & Medical AI
 
